@@ -14,7 +14,7 @@ public class Printer {
   //パブリック設定かつ静的で、戻り値がなく、String型の引数tuningMessageを受け取るprintTuningMessageという名前のメソッドを作成せよ
   public void printTuningMessage(String tuningMessage) {
 
-    //引数messageを表示せよ
+    //引数tuningMessageを表示せよ
     System.out.println(tuningMessage);
   }
 }
